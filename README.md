@@ -4,6 +4,15 @@ A wildfire spread analysis and forecasting system developed by **Hypertrial.ai**
 
 Integrates NASA FIRMS fire detection data with Open-Meteo weather data to predict wildfire behavior using Cellular Automata models.
 
+## Interactive Map 
+
+The forecasting results can be visualized using our interactive web application: **[Wildfire Spread Interactive Map](https://github.com/hypertrial/wildfires_product)**
+
+This companion product provides:
+- Interactive Leaflet.js-based mapping
+- Real-time wildfire forecast visualization
+- Modern web interface for exploring forecast data
+
 ## Quick Start
 
 1. **Install dependencies**:
