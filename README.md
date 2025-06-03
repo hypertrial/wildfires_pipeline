@@ -6,7 +6,7 @@ Integrates NASA FIRMS fire detection data with Open-Meteo weather data to predic
 
 ## Interactive Map 
 
-The forecasting results can be visualized using our interactive web application: **[Wildfire Spread Interactive Map](https://github.com/hypertrial/wildfires_product)**
+The forecasting results can be visualized using our interactive web application: **[Wildfire Spread Interactive Map](https://github.com/hypertrial/wildfires_map)**
 
 This companion product provides:
 - Interactive Leaflet.js-based mapping
